@@ -220,6 +220,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [Neural Network 2: Perceptron Kavramı ve Öğrenme](https://youtu.be/5Lo_HUDtxtw) (Dr. Sadi Evren SEKER @BilgisayarKavramlari) {13 dakika}
 * [Neural Network 3: Çok Katmanlı Yapay Sinir Ağları](https://youtu.be/qrmaixHBrzU) (Dr. Sadi Evren SEKER @BilgisayarKavramlari) {13 dakika}
 * [Yapay Sinir Ağlarının Matematiği ve 18 Satırda Matematik Olarak Kodlanması](https://www.youtube.com/watch?v=icrcbqPNrNE/) (Mehmet Burak Sayıcı)
+* [Yapay Sinir Ağları](https://www.youtube.com/playlist?list=PLcb5ECgpt3ML5MjMNV_BCFo0wQvcrW-Qq) (3Blue1Brown Türk) {59 dakika}
 
 ### Yapay Zeka
 * [Yapay Zeka (Artificial Intelligence) - Oynatma Listesi](https://www.youtube.com/playlist?list=PLh9ECzBB8tJOtaD6DFxqRdP7QHIaBFcbW) (Dr. Sadi Evren SEKER @BilgisayarKavramlari) {48 Video}
